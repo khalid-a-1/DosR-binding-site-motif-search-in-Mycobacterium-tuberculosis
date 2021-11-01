@@ -44,3 +44,5 @@ Your colleague also tells you that the motif is probably about 20 bp long.
     logo for them, as you did above.
 7. Finally, compare and contrast your results with those given by the Consensus tool. In your
     discussion, explore why Consensus only gave 19 motifs instead of 25.
+
+# For more information, read lab2.pdf
